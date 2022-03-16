@@ -8,15 +8,14 @@
   
  ## 🛠️ My Skill Set
 #### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
- <img src = "https://img.shields.io/badge/-Javascript-orange"/>
- <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="./Assets/python.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/javascript.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />
  
  #### 𝙰𝙸/𝙼𝙻
  <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
  <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
- <img src = "https://img.shields.io/badge/hugging face-FFA910?style=for-the-badge&logo=huggingface&logoColor=white"/>
+
  
  #### 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
