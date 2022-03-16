@@ -33,6 +33,8 @@
   #### Tools
   
 <img src = "https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau"/>
+<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
   
   <div align="center">
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
