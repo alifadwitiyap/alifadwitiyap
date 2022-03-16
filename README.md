@@ -8,8 +8,10 @@
   
  ## 🛠️ My Skill Set
 #### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-  <img src="./Assets/python.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
-  <img src="./Assets/javascript.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<img src = "https://img.shields.io/badge/-Javascript-orange?style=for-the-badge&logo=javascript"/>
+<img src = "https://img.shields.io/badge/-SQL-blue?style=for-the-badge"/>
+
  
  #### 𝙰𝙸/𝙼𝙻
  <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
@@ -17,11 +19,15 @@
  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 
  
- #### 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
+ #### 𝙳𝚊𝚝𝚊
  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
 <div align="center">
+  
+  #### Tools
+  
+    <img src = "https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau"/>
   
   
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
