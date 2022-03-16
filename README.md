@@ -7,6 +7,7 @@
 </p> 
   
  ## 🛠️ My Skill Set
+ 
 #### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img src = "https://img.shields.io/badge/-Javascript-orange?style=for-the-badge&logo=javascript"/>
