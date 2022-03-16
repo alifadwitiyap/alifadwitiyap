@@ -1,4 +1,4 @@
-### Hi there, </br>i'am alif adwitiya </br>machine learning & backend developer
+### HI THERE, </br>I'AM ALIF ADWITIYA </br>MACHINE LEARNING & BACKEND DEVELOPER
 
 <p align="center">
   <a/><b>Contact Me :</b></a></br>&nbsp;&nbsp;&nbsp;&nbsp;
