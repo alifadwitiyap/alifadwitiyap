@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Input&size=40&duration=3000&color=1EFF07&multiline=true&lines=Hi+There%2C;I'AM+ALIF+ADWITIYA;MACHINE+LEARNING+%26+BACKEND+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Input&size=30&duration=3000&color=1EFF07&multiline=true&width=700&height=150&lines=Hi+There%2C;I'AM+ALIF+ADWITIYA;MACHINE+LEARNING+%26+BACKEND+DEVELOPER;++++++++++++++++++)](https://git.io/typing-svg)
 
  ## 🛠️ My Skill Set
 
