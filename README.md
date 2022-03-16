@@ -6,12 +6,16 @@
   <a href="https://www.linkedin.com/in/alifadwitiyap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
   
+
+
+
+
  ## 🛠️ My Skill Set
- 
+
 #### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-<img src = "https://img.shields.io/badge/-Javascript-orange?style=for-the-badge&logo=javascript"/>
-<img src = "https://img.shields.io/badge/-SQL-blue?style=for-the-badge"/>
+ <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+ <img src = "https://img.shields.io/badge/-Javascript-orange?style=for-the-badge&logo=javascript"/>
+ <img src = "https://img.shields.io/badge/-SQL-blue?style=for-the-badge"/>
 
  
  #### 𝙰𝙸/𝙼𝙻
@@ -28,7 +32,7 @@
   
   #### Tools
   
-    <img src = "https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau"/>
+<img src = "https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau"/>
   
   
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
