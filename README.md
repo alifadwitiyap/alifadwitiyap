@@ -1,8 +1,4 @@
-### HI THERE, </br>I'AM ALIF ADWITIYA </br>MACHINE LEARNING & BACKEND DEVELOPER
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Input&color=1EFF07&multiline=true&lines=Hi+There;I'AM+ALIF+ADWITIYA;MACHINE+LEARNING+%26+BACKEND+DEVELOPER)](https://git.io/typing-svg)
 
  ## 🛠️ My Skill Set
 
