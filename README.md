@@ -1,7 +1,7 @@
 ### Hi there, i'am alif adwitiya machine learning & backend developer
 
 <p align="center">
-  <a/><b>#Contact Me :</b></a></br>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a/><b>Contact Me :</b></a></br>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alifadwitiyap@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alifadwitiyap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
