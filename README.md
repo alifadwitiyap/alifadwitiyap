@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/alifadwitiyap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   
-  </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
+  </br><img align="right" width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
 </p>
 
 
