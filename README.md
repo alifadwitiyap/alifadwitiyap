@@ -28,13 +28,13 @@
  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
-<div align="center">
+
   
   #### Tools
   
 <img src = "https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau"/>
   
-  
+  <div align="center">
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
    </br> <a/>Check out my repos ⬇️</a>
  </div>
