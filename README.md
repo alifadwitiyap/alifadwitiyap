@@ -24,7 +24,7 @@
  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 
  
- #### 𝙳𝚊𝚝𝚊 Preprocess
+ #### 𝙳𝚊𝚝𝚊
  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
