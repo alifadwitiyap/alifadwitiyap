@@ -32,7 +32,7 @@
   
   <div align="center">
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
-  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
    </br> <a/>Check out my repos ⬇️</a>
  </div>
 
