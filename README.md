@@ -25,7 +25,7 @@
 
  <div align="center">
   <img src = "https://forthebadge.com/images/badges/built-with-love.svg"/>
- </br>
+ </br>&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
  
 <p align="center">
