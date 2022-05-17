@@ -23,14 +23,16 @@
  #### Backend
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src = "https://img.shields.io/badge/-HAPI-lightgrey?style=for-the-badge"/>
 
+ <div align="center">
+  <img src = "https://forthebadge.com/images/badges/built-with-love.svg"/>
+ </div>
+ 
 <p align="center">
   <a/><b>Contact Me :</b></a></br>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alifadwitiyap@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alifadwitiyap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
-  
-  ->[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<-
-  
+    
   <div align="center">
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifadwitiyap&theme=dracula" width="30%" />
    </br> <a/>Check out my repos ⬇️</a>
